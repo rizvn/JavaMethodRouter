@@ -54,7 +54,7 @@ Once the graph has run you can see the paths taken though:
 
 
 ####Annotated Graph
-If you don't want to use method names as node names there is also an **AnnotatedGraph that can be used**. This implementation allows you to use any method name as long as its is annotated by @Node with the correct name
+If you don't want to use method names as node names there is also an **AnnotatedGraph that can be used**. This implementation allows you to use any method name as long as its is annotated by @Node with the correct name. The configuration of paths for this graph is the same as above.
 
     public class AnnotatedGraphDemo extends AnnotatedGraph {
 
