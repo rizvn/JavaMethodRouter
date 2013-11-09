@@ -1,4 +1,4 @@
-JavaMethodRouter
+Java Method Router
 ================
 
 A simple method routing library for java using reflection
