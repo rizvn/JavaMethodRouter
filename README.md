@@ -10,7 +10,7 @@ Each method in child class can be used to represent a node in the graph.
 
      public class GraphDemo extends Graph {...}
 
-Each node in the graph can be represented by a method which returns an instance Result. The method are just ordinary java methods so you can code any logic in hear.
+Each node in the graph can be represented by a method which returns an instance of Result. The method are just ordinary java methods so you can code any logic in here.
 
     public Result node_01(){
         //do some stuff here
